@@ -16,10 +16,10 @@ public class ejercicio3 {
 
          */
 
-        String[] texto = new String[]{"Texto numero 1", "Texto numero 2", "Texto numero 3"};
+        String[] texto = new String[]{"Texto numero 1 ", "Texto numero 2 ", "Texto numero 3 "};
 
         for(int i = 0; i < texto.length; i++) {
-            System.out.print(texto[i] + " ");
+            System.out.print(texto[i]);
         }
 
     }
